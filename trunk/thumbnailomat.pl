@@ -53,7 +53,6 @@ use Tk::Dialog;
 # Klassenvariablen
 # --------------------------------------------------------
 $ThumbNailCreator::VERSION 	= 1.0;
-$ThumbNailCreator::REVISION 	= 3.0;
 
 # --- Configuration ---
 # where are the original images located
